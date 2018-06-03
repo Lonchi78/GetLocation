@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">location</string>
+
+    <string name="waiting_for_location">"Waiting for Location"</string>
+
+    <string name="allert_internet_title">Internet</string>
+    <string name="allert_internet_message_1">The internet connection on your device is off.</string>
+    <string name="allert_internet_message_2">Please turn on the Internet for application usage.</string>
+    <string name="allert_internet_positive">Settings</string>
+    <string name="allert_internet_negative">Cancel</string>
+
+    <string name="allert_gps_title">GPS</string>
+    <string name="allert_gps_message_1">GPS on your device is off.</string>
+    <string name="allert_gps_message_2">Please turn on the GPS for application usage.</string>
+    <string name="allert_gps_positive">Settings</string>
+    <string name="allert_gps_negative">Cancel</string>
+
+</resources>
